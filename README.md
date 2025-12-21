@@ -14,32 +14,45 @@
 🛠 Tech Stack:
 
   Languages:
+  
   • Python,
+  
   • JavaScript (ES6+),
+  
   • HTML5,
+  
   • CSS3
   
   Web Frontend:
+  
   • React.js,
+  
   • Tailwind CSS
   
+  
   Desktop UI:
+  
   • PyQt5,
+  
   • Tkinter
+  
   
   Tools:
   • Git,
+  
   • GitHub,
+  
   • VS Code
+  
 
 
 📫 Connect with me:
 
-  •LinkedIn: Your Name
+  • LinkedIn: Your Name
   
-  •Portfolio: Link to your site
+  • Portfolio: Link to your site
   
-  •Email: ahooravhp@gmail.com
+  • Email: ahooravhp@gmail.com
 
 
 💡 Fun Fact:
