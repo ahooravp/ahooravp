@@ -9,6 +9,7 @@ live on the web or as standalone desktop applications.
   Frontend Development: Building responsive, modern web apps using React and Tailwind CSS.
   Desktop GUIs: Creating functional, high-performance desktop software with Python and PyQt5.
   Full-Stack Curious: Bridging the gap between beautiful design and logic-driven backends.
+  
 
 🛠 Tech Stack
 
@@ -25,6 +26,7 @@ live on the web or as standalone desktop applications.
   Tools:
   Git, GitHub, VS Code
 
+
 📫 Connect with me
 
   LinkedIn: Your Name
@@ -32,6 +34,7 @@ live on the web or as standalone desktop applications.
   Portfolio: Link to your site
   
   Email: ahooravhp@gmail.com
+
 
 💡 Fun Fact
 
