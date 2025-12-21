@@ -4,40 +4,45 @@
  I specialize in crafting intuitive user interfaces, whether they
  live on the web or as standalone desktop applications.
 
-🚀 What I Do
+🚀 What I Do:
 
   Frontend Development: Building responsive, modern web apps using React and Tailwind CSS.
   Desktop GUIs: Creating functional, high-performance desktop software with Python and PyQt5.
   Full-Stack Curious: Bridging the gap between beautiful design and logic-driven backends.
   
 
-🛠 Tech Stack
+🛠 Tech Stack:
 
   Languages:
-  Python,
-  JavaScript (ES6+),
-  HTML5,
-  CSS3
+  •Python,
+  •JavaScript (ES6+),
+  •HTML5,
+  •CSS3
   
   Web Frontend:
-  React.js, Tailwind CSS
+  •React.js,
+  •Tailwind CSS
   
   Desktop UI:
-  PyQt5, Tkinter
+  •PyQt5,
+  •Tkinter
+  
   Tools:
-  Git, GitHub, VS Code
+  •Git,
+  •GitHub,
+  •VS Code
 
 
-📫 Connect with me
+📫 Connect with me:
 
-  LinkedIn: Your Name
+  •LinkedIn: Your Name
   
-  Portfolio: Link to your site
+  •Portfolio: Link to your site
   
-  Email: ahooravhp@gmail.com
+  •Email: ahooravhp@gmail.com
 
 
-💡 Fun Fact
+💡 Fun Fact:
 
   I’ve been coding for 3 years, which means I've
   spent roughly 10% of that time writing code
