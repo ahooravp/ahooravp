@@ -19,7 +19,6 @@ live on the web or as standalone desktop applications.
   CSS3
   
   Web Frontend:
-  
   React.js, Tailwind CSS
   Desktop UI:
   PyQt5, Tkinter
