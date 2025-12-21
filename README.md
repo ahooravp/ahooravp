@@ -14,23 +14,23 @@
 🛠 Tech Stack:
 
   Languages:
-  •Python,
-  •JavaScript (ES6+),
-  •HTML5,
-  •CSS3
+  • Python,
+  • JavaScript (ES6+),
+  • HTML5,
+  • CSS3
   
   Web Frontend:
-  •React.js,
-  •Tailwind CSS
+  • React.js,
+  • Tailwind CSS
   
   Desktop UI:
-  •PyQt5,
-  •Tkinter
+  • PyQt5,
+  • Tkinter
   
   Tools:
-  •Git,
-  •GitHub,
-  •VS Code
+  • Git,
+  • GitHub,
+  • VS Code
 
 
 📫 Connect with me:
