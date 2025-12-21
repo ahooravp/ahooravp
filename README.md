@@ -7,22 +7,24 @@
 🚀 What I Do:
 
   • Frontend Development: Building responsive, modern web apps using React and Tailwind CSS.
+  
   • Desktop GUIs: Creating functional, high-performance desktop software with Python and PyQt5.
+  
   • Full-Stack Curious: Bridging the gap between beautiful design and logic-driven backends.
   
 
 🛠 Tech Stack:
 
-  •Languages:
+  • Languages:
   Python, JavaScript (ES6+), HTML5, CSS3
   
-  •Web Frontend:
+  • Web Frontend:
   React.js, Tailwind CSS
   
-  •Desktop UI:
+  • Desktop UI:
   PyQt5, Tkinter
   
-  •Tools:
+  • Tools:
   Git,GitHub, VS Code
   
 
