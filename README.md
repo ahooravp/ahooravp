@@ -1,6 +1,6 @@
 ## Hi there, I'm Ahoora👋
 
- I am a Computer Science student and a Software Developer with 3 years of experience.
+ I am a Full-stack and Software Developer with 3 years of experience.
  I specialize in crafting intuitive user interfaces, whether they
  live on the web or as standalone desktop applications.
 
