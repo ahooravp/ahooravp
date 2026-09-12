@@ -37,11 +37,4 @@
   
   • Email: ahooravhp@gmail.com
 
-
-💡 Fun Fact:
-
-  I’ve been coding for 3 years, which means I've
-  spent roughly 10% of that time writing code
-  and 90% of it wondering why a div isn't centering
-  or why a PyQt signal isn't firing!
   
