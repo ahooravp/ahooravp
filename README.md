@@ -32,10 +32,8 @@
   
 
 📫 Connect with me:
-
-  • LinkedIn: Your Name
   
-  • Portfolio: Link to your site
+  • Portfolio: https://ahooravahedipour.vercel.app/
   
   • Email: ahooravhp@gmail.com
 
