@@ -2,7 +2,7 @@
 
  I am a Full-stack and Software Developer with 3 years of experience.
  I specialize in crafting intuitive user interfaces, whether they
- live on the web or as standalone desktop applications.
+ live on the web or as standalone desktop applications. I am intrested in clean code, elegent design and maximum efficency.
 
 🚀 What I Do:
 
