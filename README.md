@@ -6,9 +6,9 @@
 
 🚀 What I Do:
 
-  • Frontend Development: Building responsive, modern web apps using React and Tailwind CSS.
+  • Full-Stack Web Development: Building responsive, modern applications using React, Next.js, and Tailwind CSS, powered by secure backends with Node.js, Express, and PostgreSQL.
   
-  • Desktop GUIs: Creating functional, high-performance desktop software with Python and PyQt5.
+  • Desktop UIs: Creating functional, high-performance desktop software with Python and PyQt5.
   
   • Full-Stack Curious: Bridging the gap between beautiful design and logic-driven backends.
   
@@ -18,14 +18,17 @@
   • Languages:
   Python, JavaScript (ES6+), HTML5, CSS3
   
-  • Web Frontend:
-  React.js, Tailwind CSS
+  • Frontend:
+  React.js, Next.js, Tailwind CSS
+
+  • Backend & Databases:
+  Node.js, Express, PostgreSQL.
   
   • Desktop UI:
   PyQt5, Tkinter
   
-  • Tools:
-  Git,GitHub, VS Code
+  • Tools & Ecosystem:
+  Git,GitHub, VS Code, Sanity CMS
   
 
 📫 Connect with me:
